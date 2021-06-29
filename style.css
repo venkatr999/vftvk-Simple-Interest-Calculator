@@ -1,4 +1,41 @@
-body {background-color:tan;}
-h1{color:green;}
-
-
+body {background-color:gray;
+    font-family:arial;
+    color:yellow;
+    align-content: center;
+    font-size: 16px;
+    }
+h1{color:grey;font-family:verdana}
+.maindiv{background-color:white;
+    color:red;
+    width:300px;
+    padding:20px;
+    border-radius:25px;
+    align-content: center;
+    }
+.hello{
+ 	color:;
+ }
+ .but1{
+ 	background-color: violet;
+ 	border: none;
+  color: white;
+  padding: 5%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin:20%;
+  cursor: pointer;
+}
+.theory
+{
+	background-color:black;
+	color:blue; 
+	width:200px;
+    padding:40px;
+    border-radius:35px;
+    align-content: center;
+    margin-left:5%;
+    font-size: 20px;
+    font-family:serif;
+}
